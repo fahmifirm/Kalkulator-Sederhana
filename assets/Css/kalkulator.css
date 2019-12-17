@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.form-check {
+    margin-top: 6px;
+}
+
+a {
+    margin-top: 6px;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+body {
+    background: darkcyan;
+}
+
+.btn {
+    margin-left: 30px;
+    width: 50px;
+}
+
+h3 {
+    margin-left: 220px;
+}
+
+hr {
+    border-top: 3px solid black;
+    width: 500px;
+    margin-left: 220px;
+}
+
+.operator {
+    margin-left: 110px;
+}
